@@ -28,6 +28,10 @@ www.google.com
 asdadasdaa
 
 
+<<<<<<< HEAD
 
 
 ## Esta es la modificacion desde desktop
+=======
+## Esta es la edicion en internet
+>>>>>>> 10fe751b40168cbd54d2233ca8ec1bb5f6102648
